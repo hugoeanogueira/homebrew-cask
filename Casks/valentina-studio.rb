@@ -1,6 +1,6 @@
 cask :v1 => 'valentina-studio' do
-  version '6.0.5'
-  sha256 'c9ae0cec456661c4b57825b55ac43f4b23c6e6f13d8e89a0bd90b2e07e41553a'
+  version '6.0.12'
+  sha256 '544edcfaa4cf1b4826a17cb93382642e6f7fa744c1c6582942bab8019d6e75f8'
 
   url 'http://www.valentina-db.com/download/release/mac_64/vstudio_x64_6_mac.dmg'
   name 'Valentina Studio'
